@@ -65,6 +65,8 @@ Further there exists a launchfile all.launch, which starts the communication to 
 
 For the versions available, see the [github repository](https://github.com/ethflo/rcll_status_board).
 
+For creating and using a dockerized version of the status board see the repository [rcll_status_board_docker](https://github.com/ethflo/rcll_status_board_docker).
+
 ## Authors
 
 * **Florian Eith** - *Initial work* - [Florian Eith](https://github.com/ethflo)
